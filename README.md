@@ -1,2 +1,2 @@
 # without-master-branch
-develop branch
+release branch
